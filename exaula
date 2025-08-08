@@ -1,0 +1,25 @@
+# exercicio  
+
+print("eu sou legal")
+print("meu nome é guilherme")
+print("catatau")
+
+# exercicio
+print("nome:joao","\n"
+      "idade:20 anos","\n"
+      "curso: python")
+Nome = "guilherme"
+idade = 21
+curso ="python"
+print(f"meu nome é {Nome} tenho {idade} eu curso{curso}")
+
+print("####""\n" "#  #""\n" "#  #" "\n" "####")
+a=1
+b=2
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a**b)
+print(a%b)

@@ -1,0 +1,5 @@
+#multiplicaçcao *
+#divisao / 
+#divisao inteira //
+
+
